@@ -131,7 +131,12 @@ center pre {
     display: none;
   }
 
+  .window pre {
+    padding: 1em;
+  }
+
   .title {
     text-indent: -9000px;
   }
 }
+
